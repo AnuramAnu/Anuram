@@ -27,6 +27,3 @@
 - CTF Challenges
 - Malware Analysis Basics
 - Security Automation
-
-- LinkedIn: your-link
-- Email: your-email
